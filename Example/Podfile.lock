@@ -1,0 +1,16 @@
+PODS:
+  - CKMJProgressHeader (0.1.0)
+
+DEPENDENCIES:
+  - CKMJProgressHeader (from `../`)
+
+EXTERNAL SOURCES:
+  CKMJProgressHeader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CKMJProgressHeader: d5e6d2b140d0591b6c34897dea59045ebc0bf878
+
+PODFILE CHECKSUM: cb3b16d47dab8751012f8f65d10e77ff8617e9e6
+
+COCOAPODS: 1.6.1

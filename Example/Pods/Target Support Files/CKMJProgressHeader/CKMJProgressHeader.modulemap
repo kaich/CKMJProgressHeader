@@ -1,0 +1,6 @@
+framework module CKMJProgressHeader {
+  umbrella header "CKMJProgressHeader-umbrella.h"
+
+  export *
+  module * { export * }
+}
