@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'CKMJProgressHeader_Example' do
+  pod 'CKMJProgressHeader', :path => '../'
+
+  target 'CKMJProgressHeader_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
